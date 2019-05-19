@@ -2,9 +2,9 @@
 This will use Twitters Application Only Authorization to pull read data from twitter.  Data includes past tweets, follwers,
 tweet favorites, retweets, and more.
 
-Renamed file to "code.py" to run on pyportal
+Rename file to "code.py" to run on pyportal
 """
-# PyPortal LIbraries
+# PyPortal Libraries
 import time
 import gc
 import json
