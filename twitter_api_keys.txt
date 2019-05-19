@@ -1,0 +1,24 @@
+Keys in JSON Returned from Twitter Get request
+
+    ['possibly_sensitive', 'extended_entities', 'in_reply_to_status_id_str', 
+    'lang', 'truncated', 'favorited', 'in_reply_to_user_id', 'retweeted', 
+    'display_text_range', 'source', 'id', 'geo', 'contributors', 
+    'favorite_count', 'id_str', 'in_reply_to_user_id_str', 
+    'in_reply_to_status_id', 'is_quote_status', 'created_at', 'place', 
+    'in_reply_to_screen_name', 'entities', 'retweet_count', 'user', 
+    'full_text', 'coordinates']
+
+Keys in JSON if user object is set to return as well.
+
+    ['is_translator', 'followers_count', 'profile_image_url', 'url', 
+    'translator_type', 'lang', 'utc_offset', 'profile_background_tile', 
+    'description', 'is_translation_enabled', 'profile_banner_url', 
+    'location', 'profile_sidebar_fill_color', 'profile_text_color', 
+    'statuses_count', 'profile_background_color', 'default_profile_image', 
+    'id_str', 'name', 'screen_name', 'entities', 'default_profile', 
+    'profile_use_background_image', 'favourites_count', 'listed_count', 
+    'profile_sidebar_border_color', 'friends_count', 'protected', 'created_at', 
+    'follow_request_sent', 'geo_enabled', 'contributors_enabled', 'profile_link_color', 
+    'has_extended_profile', 'profile_background_image_url_https', 'id', 
+    'profile_image_url_https', 'time_zone', 'profile_background_image_url', 
+    'verified', 'following', 'notifications'])
